@@ -1,10 +1,10 @@
 {
     "name": "element-desktop",
-    "productName": "Element",
+    "productName": "Element ZonAstro edition",
     "main": "lib/electron-main.js",
     "version": "1.11.66",
     "description": "A feature-rich client for Matrix.org",
-    "author": "Element",
+    "author": "Element, edit by Astro",
     "homepage": "https://element.io",
     "repository": {
         "type": "git",
@@ -97,8 +97,8 @@
         "app-builder-lib": "24.13.3",
         "chokidar": "^3.5.2",
         "detect-libc": "^2.0.0",
-        "electron": "^30.0.0",
-        "electron-builder": "24.13.3",
+        "electron": "^30.0.6",
+        "electron-builder": "^24.13.3",
         "electron-builder-squirrel-windows": "24.13.3",
         "electron-devtools-installer": "^3.2.0",
         "eslint": "^8.26.0",
