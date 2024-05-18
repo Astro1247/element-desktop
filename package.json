@@ -1,6 +1,6 @@
 {
     "name": "element-desktop",
-    "productName": "Element ZonAstro edition",
+    "productName": "Element - ZonAstro edition",
     "main": "lib/electron-main.js",
     "version": "1.11.66",
     "description": "A feature-rich client for Matrix.org",
